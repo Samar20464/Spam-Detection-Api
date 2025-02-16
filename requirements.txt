@@ -1,0 +1,10 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary 
+Faker 
+python-dotenv
+gunicorn
+whitenoise
+celery
+redis
